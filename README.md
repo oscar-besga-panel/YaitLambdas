@@ -1,4 +1,14 @@
-# Lambda presentation
+# Yet Another Introductio To Lambdas and Streans
+
+This is a open source creative commons project to give a quick but complete and understable  introduction to Java 8 lambdas and streams.
+
+
+## SLIDES
+
+The presentation is in Spansih and English, if anyone wants to contribute with another languaje; that's wellcome.
+
+  
+  
 
 ## SOURCES
 
