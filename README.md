@@ -3,11 +3,17 @@
 This is a open source creative commons project to give a quick but complete and understable  introduction to Java 8 lambdas and streams.
 
 
-## SLIDES
+## SLIDES about Lambdas
 
+Presentation about Lambdas and streams in Java 8.
 The presentation is in Spansih and English, if anyone wants to contribute with another languaje; that's wellcome.
 
-  
+## BONUS shallow and deep copies
+
+Presentation about shallow and deep copies.  
+Because of doubts on lambdas presentation.
+
+
   
 
 ## SOURCES
@@ -28,3 +34,12 @@ https://www.logicbig.com/tutorials/core-java-tutorial/java-util-stream/stream-ap
 https://www.jfokus.se/jfokus16/preso/Lambdas-Streams--Beyond-the-Basics.pdf  
 https://stackoverflow.com/questions/20375176/should-i-always-use-a-parallel-stream-when-possible  
 
+
+### Shallow vs deep copy
+https://www.geeksforgeeks.org/deep-shallow-lazy-copy-java-examples/  
+https://stackoverflow.com/questions/184710/what-is-the-difference-between-a-deep-copy-and-a-shallow-copy  
+https://www.java67.com/2013/05/difference-between-deep-copy-vs-shallow-cloning-java.html  
+https://www.edureka.co/blog/shallow-and-deep-copy-java/    
+https://www.baeldung.com/java-deep-copy  
+https://howtodoinjava.com/java/cloning/a-guide-to-object-cloning-in-java/  
+https://stackoverflow.com/questions/64036/how-do-you-make-a-deep-copy-of-an-object  
