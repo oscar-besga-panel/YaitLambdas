@@ -43,3 +43,9 @@ https://www.edureka.co/blog/shallow-and-deep-copy-java/
 https://www.baeldung.com/java-deep-copy  
 https://howtodoinjava.com/java/cloning/a-guide-to-object-cloning-in-java/  
 https://stackoverflow.com/questions/64036/how-do-you-make-a-deep-copy-of-an-object  
+
+
+## PRESENTATIONS
+
+See on:  
+https://drive.google.com/open?id=1FvMYpSCxlZTVzIM6Yo1ICcrQQoych-Vj  
