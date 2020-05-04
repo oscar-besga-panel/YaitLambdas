@@ -1,7 +1,10 @@
 package org.obapanel.yaitlambdas.slides;
 
 
+import org.obapanel.yaitlambdas.examples.Example4_InfiteStreamLimited;
+
 import java.util.Random;
+import java.util.UUID;
 import java.util.stream.DoubleStream;
 import java.util.stream.IntStream;
 import java.util.stream.LongStream;
@@ -44,6 +47,14 @@ public class Slide14 {
         Stream.generate(() -> "").
                 filter( s -> !s.isEmpty()).
                 count();
+    }
+
+    public void generateStreamWithGenerateAndLimit() {
+        Stream.generate(UUID::randomUUID).
+                limit(10).
+                forEach(uuid -> {
+                    System.out.println(uuid.toString());
+                });
     }
 
 
